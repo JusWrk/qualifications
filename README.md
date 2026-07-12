@@ -1,11 +1,20 @@
-# Marc Harris Qualifications
+# Marc Harris Qualifications v1.1
 
 Upload all contents directly into the root of the `qualifications` repository.
 
-Published URL:
-
+Target URL:
 https://juswrk.github.io/qualifications/
 
-Add certificate scans or PDFs to `assets/certificates/`, then replace each `href="#"` in `index.html` with the correct file path.
+## Included
+- Featured ECS Electrical Site Manager card
+- 18th Edition wording throughout
+- Filterable qualification library
+- Walled Garden City & Guilds summary
+- Uploaded certificate PDFs
+- CV, M-Hub and Juswrk navigation links
 
-Verify card expiry dates, IPAF categories, and exact awarding-body wording before public launch.
+## Still to add
+- 18th Edition certificate scan
+- City & Guilds 2391 certificate scan
+- City & Guilds 2330 Level 2 certificate scan
+- Current MEWP / forklift / CAT & Genny evidence
